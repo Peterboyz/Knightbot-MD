@@ -3,7 +3,7 @@ const settings = {
   author: 'Bot',
   botName: "Peterboyz Bot",
   botOwner: 'Peter Ngigi', // Your name
-  ownerNumber: '254791376089', //Your number
+  ownerNumber: '254769733170', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
